@@ -1,0 +1,30 @@
+
+* {
+		font-family: 'amiko';
+		text-decoration: none;
+	}
+	a {
+	color: white;
+	}
+	
+	@font-face {
+		font-family: 'amiko';
+		src: url("fonts/amiko.ttf");
+	}
+	header-font {
+		font-family: 'amiko';
+		color: lightgrey;
+		padding: 10px;
+		font-size: 24px;
+		}
+	font {
+		font-family: 'amiko';
+		color: white;
+	}
+	tfont {
+		font-family: 'amiko';
+		color: white;
+		font-size: 22px;
+		padding: 8px;
+		}
+		
