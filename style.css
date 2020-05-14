@@ -3,6 +3,9 @@
 		font-family: 'amiko';
 		text-decoration: none;
 	}
+	body {
+		background-color: black;
+		}
 	a {
 	color: white;
 	}
